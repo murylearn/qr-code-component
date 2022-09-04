@@ -16,13 +16,13 @@ body{
 }
 
 h1{
-  font-size: 2em;
+  font-size: 1.8em;
 	opacity: 0;
 	width: 100%;
 	margin: 20px auto;
 	animation-name: slide-up;
 	animation-timing-function: ease-in-out;
-	animation-delay: 1s;
+	animation-delay: .5s;
 	animation-fill-mode: forwards;
 	animation-duration: 1s;
 	overflow: hidden;
@@ -36,7 +36,7 @@ p{
 	animation-name: slide-down;
 	animation-fill-mode: forwards;
 	animation-timing-function: ease-in-out;
-	animation-delay: .7s;
+	animation-delay: .3s;
 	animation-duration: 1s;
 	font-weight: 400;
 	color: hsl(220, 15%, 55%);
@@ -92,11 +92,11 @@ img{
 }
 
 .qr-component__image__bg span:nth-child(even){
-	animation: slide-down-bg 1s ease-in-out .3s 1  forwards;
+	animation: slide-down-bg 1s ease-in-out .1s 1  forwards;
 }
 
 .qr-component__image__bg span:nth-child(odd){
-	animation: slide-up-bg 1s ease-in-out .3s 1  forwards;
+	animation: slide-up-bg 1s ease-in-out .1s 1  forwards;
 }
 
 
