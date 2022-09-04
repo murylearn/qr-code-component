@@ -60,4 +60,4 @@ There won't be any aditional development on this project
 
 -   Website - Jamiu Muritala you can check out my linked in profile [here](https://www.your-site.com)
 -   Frontend Mentor - [@murylearn](https://www.frontendmentor.io/profile/murylearn)
--   Twitter - [@yourusername](https://www.twitter.com/murytarlah)
+-   Twitter - [@murytarlah](https://www.twitter.com/murytarlah)
